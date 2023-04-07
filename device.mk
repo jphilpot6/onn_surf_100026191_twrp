@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/onn/mid7018_mr_32
+LOCAL_PATH := device/mid7018_mr_32
 
 # Screen Resolution
 TARGET_SCREEN_WIDTH := 1024

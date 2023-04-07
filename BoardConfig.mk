@@ -6,7 +6,7 @@
 #
 
 # Device Path Identifier
-DEVICE_PATH := device/onn/mid7018_mr_32
+DEVICE_PATH := device/mid7018_mr_32
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true

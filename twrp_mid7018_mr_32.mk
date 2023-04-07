@@ -12,7 +12,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Inherit from mid7018_mr_32 device
-$(call inherit-product, device/onn/mid7018_mr_32/device.mk)
+$(call inherit-product, device/mid7018_mr_32/device.mk)
 
 PRODUCT_DEVICE := mid7018_mr_32
 PRODUCT_NAME := twrp_mid7018_mr_32
